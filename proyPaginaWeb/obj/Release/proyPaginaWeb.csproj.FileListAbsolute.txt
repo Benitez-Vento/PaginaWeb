@@ -1,0 +1,118 @@
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\proyPaginaWeb.dll.config
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\proyPaginaWeb.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\proyPaginaWeb.pdb
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\csc.exe
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\csc.exe.config
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\csc.rsp
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\csi.exe
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\csi.exe.config
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\csi.rsp
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.AppContext.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Console.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.IO.Compression.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Net.Http.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Net.Sockets.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.ValueTuple.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Xml.XPath.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\vbc.exe
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\vbc.exe.config
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\vbc.rsp
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\VBCSCompiler.exe
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\obj\Release\proyPaginaWeb.csproj.AssemblyReference.cache
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\obj\Release\proyPaginaWeb.csproj.CoreCompileInputs.cache
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\obj\Release\proyPaginaWeb.csproj.CopyComplete
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\obj\Release\proyPaginaWeb.dll
+C:\miCloud\slnEjercicioCloud01\proyPaginaWeb\obj\Release\proyPaginaWeb.pdb
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\proyPaginaWeb.dll.config
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\proyPaginaWeb.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\proyPaginaWeb.pdb
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\csc.exe
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\csc.exe.config
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\csc.rsp
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\csi.exe
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\csi.exe.config
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\csi.rsp
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.AppContext.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Console.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\vbc.exe
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\vbc.exe.config
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\vbc.rsp
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\obj\Release\proyPaginaWeb.csproj.AssemblyReference.cache
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\obj\Release\proyPaginaWeb.csproj.CoreCompileInputs.cache
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\obj\Release\proyPaginaWeb.csproj.CopyComplete
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\obj\Release\proyPaginaWeb.dll
+C:\Users\MI PC\Desktop\slnWebAzure\proyPaginaWeb\obj\Release\proyPaginaWeb.pdb
