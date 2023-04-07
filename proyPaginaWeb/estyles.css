@@ -147,6 +147,7 @@ section .informacions{
 }
 .pie-pagina .grupo-1 .box figure img{
     width: 95px;
+    border-radius: 50%;
 }
 .pie-pagina .grupo-1 .box h2{
     color: #000000;
@@ -181,6 +182,8 @@ section .informacions{
 .pie-pagina .grupo-2 small{
     font-size: 20px;
 }
+
+
 @media screen and (max-width:800px){
     .pie-pagina .grupo-1{
         font-size: 14px;
